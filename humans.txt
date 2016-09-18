@@ -2,6 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
+	Ruben Mendoza	ruben@email.com
 
     <name> -- <role> -- <twitter>
 
